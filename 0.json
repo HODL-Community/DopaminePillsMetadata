@@ -1,0 +1,15 @@
+{
+  "name": "Dopamine Pill - Bronze",
+  "description": "A Bronze Dopamine Pill NFT from the Dopamine DAO ecosystem.",
+  "image": "https://raw.githubusercontent.com/HODL-Community/DopaminePillsImages/refs/heads/main/0.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Bronze"
+    },
+    {
+      "trait_type": "Lock Duration",
+      "value": "30 days"
+    }
+  ]
+} 

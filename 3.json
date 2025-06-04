@@ -1,0 +1,15 @@
+{
+  "name": "Dopamine Pill - Platinum",
+  "description": "A Platinum Dopamine Pill NFT from the Dopamine DAO ecosystem.",
+  "image": "https://raw.githubusercontent.com/HODL-Community/DopaminePillsImages/refs/heads/main/3.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Lock Duration",
+      "value": "365 days"
+    }
+  ]
+} 

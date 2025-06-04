@@ -1,0 +1,15 @@
+{
+  "name": "Dopamine Pill - Silver",
+  "description": "A Silver Dopamine Pill NFT from the Dopamine DAO ecosystem.",
+  "image": "https://raw.githubusercontent.com/HODL-Community/DopaminePillsImages/refs/heads/main/1.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Lock Duration",
+      "value": "90 days"
+    }
+  ]
+} 

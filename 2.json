@@ -1,0 +1,15 @@
+{
+  "name": "Dopamine Pill - Gold",
+  "description": "A Gold Dopamine Pill NFT from the Dopamine DAO ecosystem.",
+  "image": "https://raw.githubusercontent.com/HODL-Community/DopaminePillsImages/refs/heads/main/2.png",
+  "attributes": [
+    {
+      "trait_type": "Tier",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Lock Duration",
+      "value": "180 days"
+    }
+  ]
+} 
